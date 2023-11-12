@@ -11,7 +11,7 @@ Welcome to DrumPlayground, where rhythm meets creativity! This interactive drum 
 
 ## How to Use:
 
-1. Visit [DrumPlayground](#https://mrpeace07.github.io/drumbeatz/) in your web browser.
+1. Visit [DrumPlayground](https://mrpeace07.github.io/drumbeatz/) in your web browser.
 2. Click on the drum images to trigger sounds.
 3. Explore different combinations to create your unique beats.
 
@@ -19,5 +19,5 @@ Feel the beat, express your rhythm, and have a blast with DrumPlayground!
 
 ## Demo
 
-Check out the [Demo Site]([https://your-demo-url.com](https://mrpeace07.github.io/drumbeatz/)) to experience DrumPlayground in action!
+Check out the [Demo Site](https://mrpeace07.github.io/drumbeatz/) to experience DrumPlayground in action!
 
